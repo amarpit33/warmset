@@ -1,0 +1,20 @@
+{
+  "memory_bytes": 8589934592,
+  "memory_budget_bytes": 5153960755,
+  "models": {
+    "llama3.2:latest": {
+      "size_bytes": 3026850938,
+      "load_seconds": 5.431,
+      "prefill_tps": 230.6,
+      "decode_tps": 26.3,
+      "measured_at": "2026-10-14T15:42:29+00:00"
+    },
+    "qwen3.5:4b": {
+      "size_bytes": 3963187359,
+      "load_seconds": 5.568,
+      "prefill_tps": 120.4,
+      "decode_tps": 15.9,
+      "measured_at": "2026-10-14T15:42:46+00:00"
+    }
+  }
+}
